@@ -30,7 +30,7 @@
     "docs": "typedoc --options ./typedoc.json --excludeExternals"
   },
   "devDependencies": {
-    "@types/node": "12.12.6",
+    "@types/node": "14.18.0",
     "typedoc": "^0.22.17",
     "typedoc-plugin-missing-exports": "^0.22.6",
     "typedoc-umlclass": "^0.6.1"
